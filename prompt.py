@@ -42,6 +42,8 @@ the reports made during the web search, with their synthesis.
 
 The response should contain something between 500 - 800 words.
 
+The generated text must be written um Portuguese from Brazil.
+
 Here's the web search results:
 <SEARCH_RESULTS>
 {search_results}
