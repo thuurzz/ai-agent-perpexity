@@ -9,3 +9,8 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# PDF and report files
+*.pdf
+*.md
+reports/
